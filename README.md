@@ -5,3 +5,9 @@ The puprose of this project is to visulize the bacterial data from a smaple each
 
 # Data source
 This project is based on  [Belly button smaple data from volentrees](https://github.com/SiedHM/Belly-Button-Biodiversity/blob/main/samples.json)
+
+# GitHub Page deployment
+The dashboard page is accessible here  https://siedhm.github.io/Belly-Button-Biodiversity/
+
+# Tools and Libraries used
+The report is produced using Javascript, HTML, Bootstrap, Visual Studio, Data Driven Documents(D3.js)
