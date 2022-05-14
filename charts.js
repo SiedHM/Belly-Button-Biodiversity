@@ -130,7 +130,7 @@ function init() {
   console.log(bubbleData);
   // 2. Create the layout for the bubble chart.
   var bubbleLayout = {
-    title: 'Bacteria Spicies',
+    title: 'Bacteria Cultures Per Sample',
      showlegend: false,
      xaxis: {title: "OTU ID", automargin: true},
      yaxis: {automargin: true},
