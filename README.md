@@ -11,3 +11,5 @@ The dashboard page is accessible here  https://siedhm.github.io/Belly-Button-Bio
 
 # Tools and Libraries used
 The report is produced using Javascript, HTML, Bootstrap, Visual Studio, Data Driven Documents(D3.js)
+# Front page
+![Fig-1](https://github.com/SiedHM/Belly-Button-Biodiversity/blob/main/impage1.png)
